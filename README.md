@@ -1,3 +1,8 @@
+Introduction:
+
+  This is a service that allows products to be listed along with their name, price, description, and ID.
+  Items are stored in a database, and are displayed in a list where they can be deleted if desired.
+
 User Documentation:
 
   Upon starting the app, go to localhost:8080/ on your preferred web browser. You will see a page called 'Product List' that shows a form you can fill out to add products to a list.
